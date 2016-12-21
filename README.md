@@ -1,6 +1,6 @@
-# Jupiter Notebooks
+# Jupyter Notebooks
 
-Jupyter notebooks to get your hands on different technologies.
+Resources to get your hands on different technologies.
 
 
 ## Requirements
