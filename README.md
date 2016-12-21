@@ -5,7 +5,7 @@ Jupyter notebooks to get your hands on different technologies.
 
 ## Requirements
 
-Python 2.7
+* Python 2.7
 
 
 ## Running
