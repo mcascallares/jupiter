@@ -22,4 +22,4 @@ jupyter notebook
 
 * Browse http://localhost:8888 and open the desired notebook
 
-[getting-started-with-es]: https://raw.githubusercontent.com/mcascallares/jupiter/master/screenshots/getting-started-with-es.png "Logo Title Text 2"
+![getting-started-with-es](https://raw.githubusercontent.com/mcascallares/jupiter/master/screenshots/getting-started-with-es.png "Getting Started With Elasticsearch")
